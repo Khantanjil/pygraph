@@ -16,4 +16,12 @@ The same, instead of using line, used circle
 ## Using bokeh with pandas
 The graphs can be used from csv file   
 ![](https://i.imgur.com/WXY4vzS.png)   
-[Make bokeh plot from csv](https://github.com/Khantanjil/pygraph/tree/master/all_graphs/bokeh%20with%20pandas)   
+[Make bokeh plot from csv](https://github.com/Khantanjil/pygraph/tree/master/all_graphs/bokeh%20with%20pandas)
+
+## Make an plotting education data  
+The following line graph shows the percentage of women who have received a bachelor's degree over the years in USA. The graph was produced from the Year  and Engineering columns of the CSV file provided in the following link:   
+
+http://pythonhow.com/data/bachelors.csv   
+
+![](https://i.imgur.com/gWFk7HH.png)
+![](https://i.imgur.com/e9rdnla.png)
