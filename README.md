@@ -12,3 +12,8 @@ Instead of using figure object .line, used .triangle
 ## Circle Graph
 The same, instead of using line, used circle  
 ![b](https://i.imgur.com/jpT4iEf.png)
+
+## Using bokeh with pandas
+The graphs can be used from csv file
+![](https://i.imgur.com/WXY4vzS.png)
+[Make bokeh plot from csv](https://github.com/Khantanjil/pygraph/tree/master/all_graphs/bokeh%20with%20pandas)
