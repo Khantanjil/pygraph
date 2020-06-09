@@ -25,3 +25,6 @@ http://pythonhow.com/data/bachelors.csv
 
 ![](https://i.imgur.com/gWFk7HH.png)
 ![](https://i.imgur.com/e9rdnla.png)
+
+## Plot properties
+![](https://i.imgur.com/4Sv2jbV.png)
