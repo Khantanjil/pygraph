@@ -27,4 +27,7 @@ http://pythonhow.com/data/bachelors.csv
 ![](https://i.imgur.com/e9rdnla.png)
 
 ## Plot properties
-![](https://i.imgur.com/4Sv2jbV.png)
+![](https://i.imgur.com/4Sv2jbV.png)  
+
+## Plotting Weather Data  
+![](https://i.imgur.com/RpD1Z7d.png)
